@@ -1,2 +1,110 @@
 ************** All Times Sales Analysis **************
 
+No sales reported for edamame, consider removing it from the menu. 
+
+No sales reported for house salad, consider removing it from the menu. 
+
+No sales reported for cucumber sunomono salad, consider removing it from the menu. 
+
+No sales reported for hiyashi wakame seaweed salad, consider removing it from the menu. 
+
+No sales reported for agedashi tofu, consider removing it from the menu. 
+
+No sales reported for hiyayakko tofu, consider removing it from the menu. 
+
+No sales reported for pork floss bao, consider removing it from the menu. 
+
+No sales reported for kakuni bao, consider removing it from the menu. 
+
+No sales reported for edamame fried gyoza (vegan), consider removing it from the menu. 
+
+No sales reported for fried gyoza, consider removing it from the menu. 
+
+No sales reported for takoyaki, consider removing it from the menu. 
+
+No sales reported for rock shrimp tempura, consider removing it from the menu. 
+
+No sales reported for soft-shell crab tempura, consider removing it from the menu. 
+
+No sales reported for ebi katsu shrimp bao, consider removing it from the menu. 
+
+Report for nagomi shoyu:
+Number of units sold: 9132
+All time revenue: 100452.0
+All time cost: 45660.0
+Final profit: 54792.0
+
+Report for shio ramen:
+Number of units sold: 9180
+All time revenue: 100980.0
+All time cost: 45900.0
+Final profit: 55080.0
+
+Report for spicy miso ramen:
+Number of units sold: 9238
+All time revenue: 110856.0
+All time cost: 46190.0
+Final profit: 64666.0
+
+Report for vegetarian spicy miso:
+Number of units sold: 9216
+All time revenue: 110592.0
+All time cost: 46080.0
+Final profit: 64512.0
+
+Report for miso crab ramen:
+Number of units sold: 8890
+All time revenue: 106680.0
+All time cost: 53340.0
+Final profit: 53340.0
+
+Report for soft-shell miso crab ramen:
+Number of units sold: 9130
+All time revenue: 127820.0
+All time cost: 63910.0
+Final profit: 63910.0
+
+Report for tori paitan ramen:
+Number of units sold: 9156
+All time revenue: 119028.0
+All time cost: 54936.0
+Final profit: 64092.0
+
+Report for tonkotsu ramen:
+Number of units sold: 9288
+All time revenue: 120744.0
+All time cost: 55728.0
+Final profit: 65016.0
+
+Report for burnt garlic tonkotsu ramen:
+Number of units sold: 9070
+All time revenue: 126980.0
+All time cost: 54420.0
+Final profit: 72560.0
+
+Report for vegetarian curry + king trumpet mushroom ramen:
+Number of units sold: 8824
+All time revenue: 114712.0
+All time cost: 61768.0
+Final profit: 52944.0
+
+Report for truffle butter ramen:
+Number of units sold: 8982
+All time revenue: 125748.0
+All time cost: 62874.0
+Final profit: 62874.0
+
+No sales reported for green tea, consider removing it from the menu. 
+
+No sales reported for coke, consider removing it from the menu. 
+
+No sales reported for black sesame ice cream, consider removing it from the menu. 
+
+No sales reported for matcha ice cream, consider removing it from the menu. 
+
+No sales reported for mango mochi ice cream, consider removing it from the menu. 
+
+No sales reported for strawberry mochi ice cream, consider removing it from the menu. 
+
+No sales reported for black sesame creme brulee, consider removing it from the menu. 
+
